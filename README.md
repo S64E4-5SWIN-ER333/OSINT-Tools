@@ -4,7 +4,7 @@ description: >-
   by the OSINT Newsletter.
 ---
 
-# OSINT Tools Library
+# Open Source Intelligence Tools Library
 
 Welcome to the OSINT Tools Library.
 
